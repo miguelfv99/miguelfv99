@@ -11,12 +11,12 @@ Actualmente me encuentro estudiando 1º DAW en el Instituto De Formación Profes
 
 ### 🛠️ Mi Stack Tecnológico
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3 |
-| **Backend** | CSharp |
-| **Herramientas** | Git, GitHub, VS Code |
-| **Base de Datos** | SQL, MongoDB |
+| Categoría | Tecnologías | Nivel |
+| :--- | :--- | :--- | 
+| **Frontend** | HTML5, CSS3 | Aprendiendo |
+| **Backend** | CSharp | Afianzando |
+| **Herramientas** | Git, GitHub, VS Code | Descubriendo |
+| **Base de Datos** | SQL, MongoDB | Reforzando |
 
 ---
 ### 📊 Estadísticas
@@ -24,5 +24,16 @@ Actualmente me encuentro estudiando 1º DAW en el Instituto De Formación Profes
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=miguelfv99&show_icons=true&theme=tokyonight)
 
 ---
+### 🐍 Mi historial de contribuciones
+![snake gif](https://github.com/miguelfv99/miguelfv99/blob/output/github-contribution-grid-snake.svg)
+
+---
 ### 📫 Contacto
-[📩 Correo Personal](mailto:miguelangelfernandez845@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel_fv)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguel_fv)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelangelfernandez845@gmail.com)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=miguelfv99&color=blue&style=flat-square" alt="Contador de visitas" />
+</p>
