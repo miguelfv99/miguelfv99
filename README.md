@@ -5,7 +5,7 @@
 ---
 # ¡Hola! Soy Miguel Ángel Fernández👋 
 Bienvenido a mi perfil de GitHub.
-Actualmente me encuentro estudiando 1º DAW en el Instituto De Formación Profesional IES Luis Vives.
+Actualmente me encuentro estudiando 1º DAW en el Instituto de Formación Profesional IES Luis Vives.
 
 ---
 
